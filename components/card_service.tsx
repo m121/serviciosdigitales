@@ -51,12 +51,12 @@ export default function CardService({
         </CardHeader>
         <CardContent>
           <Image src={img_src} alt={title} width={250} height={250} />
-          <p>{description}</p>
+          <p className="w-full text-justify sm:mt-4 mt-2">{description}</p>
         </CardContent>
         <CardFooter className="flex justify-between">
           <Link
             target="_blank"
-            href={`https://wa.me/+573104442634?text=Hola,Estoy interesado en el servicio de ${title}`}
+            href={`https://wa.me/+573502445734?text=Hola,Estoy interesado en el servicio de ${title}`}
           >
             {" "}
             <Button>Comprar</Button>

@@ -1,31 +1,33 @@
 export const mainservices = [
-    {
-        id: "1",
-        title : "Crea una plantilla de post para Facebook e Instagram",
-        description : "Nos dices el tema y te creamos hasta 20 posts",
-        price : "50.000 COP",
-        img_src : "/img/services/default.png",
-
-
-    },
-    {
-        id: "2",
-        title : "Diseña tu logo",
-        description : "Te diseñamos tu logo con las especificaciones y te lo entregamos en png,pdf",
-        price : "100.000 COP",
-        img_src : "/img/services/default.png",
-
-
-    },
-    {
-        id: "3",
-        title : "Crea tu propio Código Arte QR AI ",
-        description : "Nos dices la descripción y la URl del código",
-        price : "5.000 COP",
-        img_src : "/img/services/default.png",
-
-
-    }
+    
+        {
+            id: "1",
+            title : "Servicio Completo de Creación de Páginas Web con Hosting Incluido",
+            description : "Potencia tu presencia en línea con nuestro Servicio Integral de Creación de Páginas Web y Hosting Incluido",
+            price : "300 USD",
+            img_src : "/img/services/web1.png",
+    
+    
+        },
+      
+        {
+            id: "2",
+            title : "Diseño Profesional con Plantilla Premium para tu Comercio Electrónico Triunfador",
+            description : "Destaca con un diseño visualmente impactante y una plantilla exclusiva que garantiza una experiencia de usuario excepcional. Impulsa las conversiones y el éxito de tu tienda en línea con estilo y funcionalidad incomparables.",
+            price : "700 USD",
+            img_src : "/img/services/store.png",
+        
+        
+        },
+        {
+            id: "3",
+            title : "Servicio de Mantenimiento Shopify",
+            description : "Nos encargamos de todos los detalles técnicos para que puedas concentrarte en hacer crecer tu negocio. Desde actualizaciones regulares y gestión de productos hasta asegurar la seguridad del sitio",
+            price : "Desde 100 USD",
+            img_src : "/img/services/web2.png",
+        
+        
+        },
    
 ]
 

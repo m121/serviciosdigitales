@@ -9,7 +9,7 @@ export default function Hero(){
       <h1 className="title-font sm:text-7xl text-3xl mb-2 font-light  text-black">Servicios
 <span className="font-black"> Digitales</span> <br/> 
       </h1>
-      <p className="mb-8 leading-relaxed text-2xl  text-black">Te ahorramos tiempo y dinero con nuestros servicios.</p>
+      <p className="mb-8 leading-relaxed text-2xl  text-black">Ofrecemos servicios digitales que incluyen la creación de portales web<br/> con marca propia, contenido persuasivo, imágenes cautivadoras, hosting incluido<br/> y estilos únicos.</p>
       <div className="flex justify-center">
         <Button ><Link href="/servicios">Ver servicios</Link></Button>
         
