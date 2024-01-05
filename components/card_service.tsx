@@ -56,7 +56,7 @@ export default function CardService({
         <CardFooter className="flex justify-between">
           <Link
             target="_blank"
-            href={`https://wa.me/+573502445734?text=Hola,Estoy interesado en el servicio de ${title}`}
+            href={`https://wa.me/+573104442634?text=Hola,Estoy interesado en el servicio de ${title}`}
           >
             {" "}
             <Button>Comprar</Button>
